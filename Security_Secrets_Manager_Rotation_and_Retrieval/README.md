@@ -1,3 +1,3 @@
-Security: Secrets Manager Rotation and Retrieval 🔑
+# Security: Secrets Manager Rotation and Retrieval 🔑
 
 DevOps engineers frequently interact with AWS Secrets Manager to retrieve credentials or rotate them securely. This script shows how to retrieve a secret and also outlines the structure for a custom rotation function, which is critical for securing database passwords and API keys.
