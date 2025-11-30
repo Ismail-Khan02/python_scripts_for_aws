@@ -1,0 +1,2 @@
+Storage Management: S3 Cleanup Tool 🗑️
+Managing temporary storage is crucial. This script is designed for cleaning up old files in an Amazon S3 bucket, often used to clear out old build artifacts, log files, or temporary testing data to control storage costs.
